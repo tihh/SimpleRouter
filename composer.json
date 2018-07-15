@@ -1,3 +1,6 @@
 {
 	"name": "tihh/simple-router"
+	"autoload": {
+		"psr-4": {"Acme\\": "src/"}
+	}
 }
